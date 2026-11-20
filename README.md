@@ -1,2 +1,2 @@
 # recipes directory
-This repo is to house all my favourite recipes
+This repo is to house all my favourite recipesn
