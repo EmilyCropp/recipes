@@ -5,3 +5,5 @@
 * salt
 
 ## Instructions
+* mash together
+* serve with veges
